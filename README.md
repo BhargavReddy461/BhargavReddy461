@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhargavReddy461
+- 👋 Hi, I’m Bhargav Reddy
 - 👀 I’m interested in building softwares.
 - 🌱 I’m currently learning System Design and Web Development.
 - 💞️ I’m looking for SDE roles.
