@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhargav Reddy
 - 👀 I’m interested in building softwares.
 - 🌱 I’m currently learning System Design and Web Development.
-- 💞️ I’m looking for SDE roles.
+- 💞️ I’m looking for SDE-2 roles.
 - 📫 Reach me at email- d.bhargavreddy000143@gmail.com or contact no. +91 7995852576.
 - ✨ Would appreciate any suggestions for new projects.
 
